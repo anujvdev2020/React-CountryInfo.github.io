@@ -1,0 +1,16 @@
+body{
+  background-image: url('https://cdn2.wanderlust.co.uk/media/2646/blogs-the-worlds-strangest-flags.jpg?anchor=center&mode=crop&width=1200&height=0&rnd=131455561520000000');
+}
+
+.App {
+  margin: 20px auto;
+  text-align: center;
+  width: 700px;
+  height: 600px;
+  border-radius: 10px;
+  background-color: transparent;
+ box-shadow:  0px -1px 10px 6px silver;
+}
+.main{
+  
+}
